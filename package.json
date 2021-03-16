@@ -1,0 +1,29 @@
+{
+  "name": "esoterikos",
+  "version": "1.0.0",
+  "description": "a discord.js framework for trying new things",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-synthful-developer-group/esoterikos.git"
+  },
+  "keywords": [
+    "discord",
+    "framework"
+  ],
+  "contributors": [
+    "ImUrX <urielfontan2002@gmail.com> (https://imurx.github.io/)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A-synthful-developer-group/esoterikos/issues"
+  },
+  "homepage": "https://github.com/A-synthful-developer-group/esoterikos#readme",
+  "peerDependencies": {
+    "discord.js": "github:discordjs/discord.js#master"
+  }
+}
