@@ -1,5 +1,6 @@
 export default class Store {
 
-    constructor() {
+    constructor(name) {
+
     }
 }
